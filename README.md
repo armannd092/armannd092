@@ -5,7 +5,7 @@ CTO and Technical Leader specializing in ML, Computer graphics, and Blockchain t
 ## 🚀 Tech Stack
 
 ```python
-my_tech_stack:Dict[str,List[str]] = {
+my_tech_stack:dict[str,List[str]] = {
     "Languages": ["Python", "Rust", "Solidity", "C"],
     "AI/ML": ["Computer Vision", "Machine Learning", "Deep Learning"],
     "Web3": ["Smart Contracts", "Identity Management", "Blockchain"],
